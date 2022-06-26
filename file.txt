@@ -1,1 +1,2 @@
 HELLO I'M A FILE
+Press 'ESC' to enter commands.
